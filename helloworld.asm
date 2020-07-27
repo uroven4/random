@@ -1,4 +1,5 @@
 ; hello.asm 
+
 ; assemble with "nasm -f bin -o hi.com hello.asm"
 
     org  0x100        ; .com files always start 256 bytes into the segment
